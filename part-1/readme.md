@@ -19,7 +19,7 @@
 ### part 1: orientation
 
 - [10 mins] we begin with a brief overview of what React is exactly, the kinds of problems it was intended to solve and why so many experienced developers like it
-- [10 mins] next we take a look at the common patterns of creating, connecting and organizing React components including `React.createClass()`, extending `React.Component` and using pure components from JavaScript functions
+- [10 mins] next we take a look at the common patterns of creating, connecting and organizing React components including `React.createClass()`, extending `React.Component` and creating pure components using JavaScript functions
 - [10 mins] finally we take a guided tour of 3 open source projects that use React
 - [20 mins] build your first React components using one of our ideas or your own
 
