@@ -41,7 +41,7 @@
 This repository has everything you need to get started so just
 ```bash
 # clone the repo
-git clone THIS_REPO_URL
+git clone https://github.com/amgando/react-workshop.git
 
 # cd into the folder
 cd react-workshop
