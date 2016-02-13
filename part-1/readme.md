@@ -12,7 +12,6 @@
 
 ### outcomes
 - **you will be able to explain what React is and how it might have a place in your web application development story**
-- **you will be able to recognize and observe the behavior of React components on live websites**
 - **you will be able to read and understand the majority of React-specific source code of any web application that uses React**
 - **you will be able to create your own custom components using several syntactic variants with ES5 and ES6**
 
