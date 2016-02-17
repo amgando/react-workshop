@@ -17,7 +17,11 @@ import ReactDOM from 'react-dom'
 // AJAX/HTTP Library Comparison
 // http://andrewhfarmer.com/ajax-libraries
 
-
+class Examples extends React.Component {
+  render(){
+    return <div>no react components here yet ...</div>
+  }
+}
 
 // immediately invoke a function
 (function(){
