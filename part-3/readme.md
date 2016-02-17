@@ -27,5 +27,17 @@
 
 ### part 3: maintenance
 
-- [10 mins] we end with an existing React application, one that we've seen before, and address a few issues in the code
-- [40 mins] work on maintaining a React application by upgrading React to take advantage of some of the latest features in version 0.14
+- [10 mins] we end with an existing React application, one that we've seen before, and upgrade it from ES5 to ES6
+- [20 mins] next, choose a starter-kit, any starter-kit, and make it work
+- [20 mins] finally, start working on your own idea
+
+
+### getting started
+
+```
+# install the dependencies
+npm install
+
+# start the server
+npm run hot
+```

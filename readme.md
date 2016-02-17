@@ -48,7 +48,7 @@
 - **part 3**: maintenance
     - [10 mins] we end with an existing React application, one that we've seen before, and upgrade it from ES5 to ES6
     - [20 mins] next, choose a starter-kit, any starter-kit, and make it work
-    - [20 mins] finally, choose one of either upgrading an outdated React application or starting to work your own idea with support
+    - [20 mins] finally, start working on your own idea
 
 
 ### installation

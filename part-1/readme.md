@@ -36,14 +36,11 @@
 
 **installation**
 
-> or this repository has everything you need to get started
-
-```bash
+```
 # install the dependencies
 npm install
 
 # start the server
-npm start
+npm run hot
 ```
-
 
