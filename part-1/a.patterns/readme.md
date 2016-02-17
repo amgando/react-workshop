@@ -1,11 +1,11 @@
-## getting started
+### getting started
 
 ```
 # install the dependencies
 npm install
 
 # start the server
-npm start
+npm run hot
 ```
 
 ### references / inspiration
@@ -18,9 +18,6 @@ http://andrewhfarmer.com/getting-started-tutorials/
 
 5 Practical Examples For Learning React 
 http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/
-
-8 no-Flux strategies for React component communication
-http://andrewhfarmer.com/component-communication/
 
 React AJAX Best Practices
 http://andrewhfarmer.com/react-ajax-best-practices

@@ -10,6 +10,11 @@
 - 11 am - 11:50 am
 
 
+### slides
+
+[slides are here](https://docs.google.com/presentation/d/1ttAyxWIooMqY4tTHqlqTMk9dnhP4fWD-j7dmJwVQDvI/edit?usp=sharing)
+
+
 ### outcomes
 - you will be able to explain what React is and how it might have a place in your web application development story
 - you will be able to read and understand the majority of React-specific source code of any web application that uses React
@@ -17,6 +22,7 @@
 - you will be able to discover and reuse publicly available React components in your own application
 - you will be able to use the React Developer Tools to observe and modify component behavior in real time
 - **you will be able to modify an existing React application to suit your needs**
+- **you will be able to incrementally introduce React to a static web application**
 
 
 ### part 3: maintenance

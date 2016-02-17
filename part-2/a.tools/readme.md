@@ -1,4 +1,5 @@
-search for the string `#componentkata` starting here on down
+your goal is to get to know npm and Webpack
+
 
 ### getting started
 
@@ -7,5 +8,6 @@ search for the string `#componentkata` starting here on down
 npm install
 
 # start the server
-npm run hot
+npm start
 ```
+

@@ -6,15 +6,15 @@
 
 ---
 
-### slides
-
-[slides are here](https://docs.google.com/presentation/d/1ttAyxWIooMqY4tTHqlqTMk9dnhP4fWD-j7dmJwVQDvI/edit?usp=sharing)
-
-
 ### timing
 - 9 am - 12 pm
 - 3 x 50 min segments with 10 min breaks after each
 - hands-on, bring your laptop
+
+
+### slides
+
+[slides are here](https://docs.google.com/presentation/d/1ttAyxWIooMqY4tTHqlqTMk9dnhP4fWD-j7dmJwVQDvI/edit?usp=sharing)
 
 
 ### outcomes
@@ -61,11 +61,16 @@ git clone https://github.com/amgando/react-workshop.git
 # cd into the folder
 cd react-workshop
 
-# install the dependencies
+# follow the readme.md directions per folder
+
+# typically that will just be running the following commands
+# for installing dependencies
 npm install
 
-# start the server
-npm start
+# and to start the server, either "HMR mode" or "regular mode"
+npm run hot
+#-or-# 
+npm start 
 ```
 
 *If for some reason you aren't able to run `npm`, the limited time in this workshop won't allow for us to troubleshoot your computer.  Instead, we have an online version available for you to use so you can keep up with the workshop without having to configure your machine.*

@@ -1,17 +1,10 @@
-## getting started
-
-**online**
-> you can use the online version here: http://jsfiddle.net/user/amgando/
+### getting started
 
 **installation**
 
-```
-# install the dependencies
-npm install
+There is no installation! 
 
-# start the server
-npm start
-```
+Just open the `index.html` file and do your work there to keep things simple
 
 
 ### references / inspiration
