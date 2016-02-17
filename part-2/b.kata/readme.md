@@ -1,0 +1,1 @@
+search for the string `#componentkata` starting here on down
