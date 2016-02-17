@@ -26,3 +26,26 @@
 
 ### getting started
 
+**online**
+
+> you can use the online version here: http://jsfiddle.net/user/amgando/
+
+**installation**
+
+> or this repository has everything you need to get started
+
+```bash
+# clone the repo
+git clone https://github.com/amgando/react-workshop.git
+
+# cd into the folder
+cd react-workshop
+
+# install the dependencies
+npm install
+
+# start the server
+npm start
+```
+
+
