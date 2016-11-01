@@ -144,7 +144,7 @@ const Ex4b = React.createClass({
 
   render(){
     return <div>
-    components can track data like this: [{this.state.count}] &lt;-- but this won't update
+    components can track data like this: [{this.state.count}] &lt;-- but this wont update
     </div>
   }
 })
